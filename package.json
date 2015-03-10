@@ -1,6 +1,6 @@
 {
   "name": "chinese-dns-server-list",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "中国DNS服务器列表",
   "main": "lib/index.js",
   "scripts": {
