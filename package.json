@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/ynu/chinese-dns-server-list",
   "dependencies": {
-    "root-hints": "^1.0.1"
   }
 }
